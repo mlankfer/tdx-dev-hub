@@ -1,0 +1,1 @@
+sfdx force:data:tree:import -u sfdx-chan -f assets/data/Broker__c-Property__c.json
